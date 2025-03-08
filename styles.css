@@ -229,6 +229,8 @@ p {
     font-weight: bold;
     font-size: 15px;
     cursor: pointer;
+    padding-bottom: 6px;
+    padding-right: 4px;
 }
 
 .plus {
